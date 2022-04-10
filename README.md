@@ -1,7 +1,7 @@
 # LunaChatBot
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
-A public running instance can be found on telegram as [@LunaChatBot](https://t.me/LunaChatBot).
+A public running instance can be found on telegram as [@Rikka_Robot](http://t.me/Rikka_Robot).
 
 <img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
 
@@ -14,7 +14,7 @@ A public running instance can be found on telegram as [@LunaChatBot](https://t.m
 ## Installation
 
 ```sh
-$ git clone https://github.com/thehamkercat/LunaChatBot
+$ git clone https://github.com/Nekobabe/LunaChatBot
 $ cd LunaChatBot
 $ pip3 install -U -r requirements.txt
 $ cp sample_config.py config.py
@@ -27,7 +27,7 @@ $ python3 luna.py
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheHamkerCat/LunaChatBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nekobabe/LunaChatBot/tree/master)
 
 
 ## Docker
@@ -40,4 +40,4 @@ $ sudo docker run luna
 
 ## Note
 
-- For Any Help, Ask Here [ProgrammersHub](https://t.me/PatheticProgrammers)
+- For Any Help, Ask Here [BoooxD](https://t.me/BoooxD)
